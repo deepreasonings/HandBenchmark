@@ -11,6 +11,7 @@ A Comprehensive Benchmark for Hand Animatable Avatar Generation
   <a href="#" target="_blank">Paper</a> |
   <a href="#" target="_blank">Dataset</a>
 </p>
+
 ## 📖 Introduction
 
 The Hand Animatable Avatar Generation Benchmark Dataset addresses a gap in evaluating hand animatable avatar generation systems. Creating realistic, fully animatable hand avatars from a single static expression remains challenging, as existing methods struggle to accurately capture:
